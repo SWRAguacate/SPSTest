@@ -14,9 +14,7 @@ Se configuró un API en NodeJS con express para consumir información de un API 
  <br>
 API Endpoints Documentation  <br>
  <br>
-BASE API LOCAL: http://localhost:8090/api/v1  <br>
- <br>
-HOSTED: https://spstest-be7416f5a09a.herokuapp.com/api/v1/  <br>
+BASE API LOCAL: http://localhost:8090/api/v1/pokemon  <br>
  <br>
  URL del repositorio GItHUB:   <br>
  <br>
